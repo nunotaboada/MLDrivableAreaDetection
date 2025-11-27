@@ -143,7 +143,7 @@ To visualize:
 
 ## Documentation
 
-[![Docs](https://img.shields.io/badge/Sphinx-Documentation-blue?style=plastic)](docs/build/html/index.html)
+[![Docs](https://img.shields.io/badge/Sphinx-Documentation-blue?style=plastic)](https://nunotaboada.github.io/MLDrivableAreaDetection/)
 
 Comprehensive documentation for the project is generated using Sphinx, covering all modules, including model.py, dataset.py, and train.py. The documentation is available as HTML and includes an index that links to all modules and reports.
 Requirements
